@@ -10,7 +10,7 @@ The **Google Advanced Data Analytics Professional Certificate** is a specializat
 
 | # | Course Title |  Tasks | Projects | Certificate |
 |------------|---------------|-------------|----------| -------- |
-| 1️⃣ | [Foundations of Data Science](Course-1-Foundations-of-Data-Science) |  [Tasks](Course-1-Foundations-of-Data-Science/tasks) | [Projects](Course-1-Foundations-of-Data-Science/projects) | [Certificate](https://coursera.org/verify/5EFA26XO54PW) |
+| 1️⃣ | [Foundations of Data Science](Course-1-Foundations-of-Data-Science) |  [Tasks](Course-1-Foundations-of-Data-Science/Tasks) | [Projects](Course-1-Foundations-of-Data-Science/Projects) | [Certificate](https://coursera.org/verify/5EFA26XO54PW) |
 | 2️⃣ | Get Started with Python |   Tasks | Projects | Certificate |
 | 3️⃣ | Go Beyond the Numbers: Translate Data into Insights  |  Tasks | Projects | Certificate |
 | 4️⃣ | The Power of Statistics |  Tasks | Projects | Certificate |
